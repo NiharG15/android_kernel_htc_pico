@@ -2686,3 +2686,6 @@ CONFIG_HAS_IOPORT=y
 CONFIG_HAS_DMA=y
 CONFIG_NLATTR=y
 # CONFIG_AVERAGE is not set
+
+#Needed for multiple sdcard partitions
+CONFIG_LBDAF=y
